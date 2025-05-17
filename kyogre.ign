@@ -1,5 +1,10 @@
 {
   "ignition": {
+    "config": {
+      "replace": {
+        "source": "https://raw.githubusercontent.com/lettucebowler/coreos-config/refs/heads/main/kyogre.ign"
+      }
+    },
     "version": "3.5.0"
   },
   "passwd": {

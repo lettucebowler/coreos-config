@@ -1,5 +1,9 @@
 variant: fcos
 version: 1.6.0
+ignition:
+  config:
+    replace:
+      source: https://raw.githubusercontent.com/lettucebowler/coreos-config/refs/heads/main/kyogre.ign
 passwd:
   users:
     - name: lettucebowler
