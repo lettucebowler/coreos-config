@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.5.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC92Xep9ttEqkoj5KlwrI2mqnjRmIiYhriGyS0Ka5zR3DMK1ZxnixDe59aSsw5vdFaI4HwL+akwvlGjSTY6z0AKfQADTLU4ShiC4TlzlNVbAWTKL+1JJRf3paAJYkOqoXyVjcGaBx6bFfJIjBEzIE43L7UoX5EtTbYPeE+6i+mRSUKAc457i0hl6OXULWYsSq0oaYC7nC33YIQw1tt79H6Dm568umgIcjD5yUytu7btm6WMxRSmIM1VRsz9l2pswKoSWaH3m447OZIBtOK045IgbgeL10Y53TTuKoU32pL13mKSkGRLHJfuefbRohLFdFB7VYt+LiAtpPB6tq1Ak6E+nbAw4iwWeVrRuK7w4IeaaEENCUM5tSlz6p2CGBgkfYpen/tR3fEX13ceb7Dgwg08Awdjy8YZVPCkMgaS4K8LGmjSDeckpQTVuGktNy0WtrEOtEegCgWKTwJuktwPFgNhcRnOGep5ZrN2Cf5qAt+Y6EpR7XCcyGXaNYEkPD0lgBk= lettucebowler@umbreon"
+        ]
+      }
+    ]
+  }
+}
